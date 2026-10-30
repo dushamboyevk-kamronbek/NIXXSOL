@@ -264,10 +264,10 @@ img {
 /* ---------- Contact ---------- */
 .contact-section {
   display: flex;
-  width: 1200px;
+  width: 1500px;
   margin: 60px auto;
-  padding: 90px 80px;
-  gap: 80px;
+  padding: 100px;
+  gap: 100px;
   color: #fff;
   background: linear-gradient(110deg, #1a1a1a 45%, #5a1212 80%, #941717 100%);
   border-radius: 4px;
@@ -394,8 +394,6 @@ img {
 .footer-top {
   height: 184px;
   background: linear-gradient(#fff 0 80px, #000 80px 100%);
-
-
 }
 
 .footer-logo {
@@ -406,12 +404,11 @@ img {
   padding-left: 156px;
   background: linear-gradient(180deg, #444 0%, #1a1a1a 100%);
   clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
-
 }
 
 .footer-logo img {
- width: 548.2086791992188px;
-    height: 127.72540283203125px;
+  width: 172px;
+  height: auto;
 }
 
 .footer-main {
